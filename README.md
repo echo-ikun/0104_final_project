@@ -7,6 +7,7 @@ all the things are there
   description and demonstration of the experiments. It concluded with some reflections and 
   considerations.
 
+I am a student from Sun Yat-sen University,you can contact with me with the mail:2575293344@qq.com. and there are still many shortcomings in my report, I sincerely hope for your comments and advices .
 
 Finally,appreciate for the paper and coding written by Eslam Bakr together with his teammates , their github repository is : https://github.com/heshameraqi/Proactive-Content-Caching-with-Deep-Learning
 
