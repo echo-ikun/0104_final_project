@@ -6,3 +6,8 @@ all the things are there
 - The experimental report documented the reading and analysis of the paper, as well as the 
   description and demonstration of the experiments. It concluded with some reflections and 
   considerations.
+
+
+Finally,appreciate for the paper and coding written by Eslam Bakr together with his teammates , their github repository is : https://github.com/heshameraqi/Proactive-Content-Caching-with-Deep-Learning
+
+- Eslam Bakr, Hamza B. Ammar, Hesham M. Eraqi, Sherif Aly, Yacine Ghamri-Doudane, Tamer Elbatt. End-to-End Deep Learning Proactive Content Caching Framework. IEEE Global Communications Conference. Rio de Janeiro, Brazil, December 2022.
